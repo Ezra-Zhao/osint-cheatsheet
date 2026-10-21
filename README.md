@@ -8,6 +8,9 @@ OSINT（Open Source Intelligence，开源情报）就是只用公开渠道能查
 
 ---
 
+
+Support & more: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — templates & workbooks I use](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 先说 GhostTrack
 
 这份表就是因为它起的头。GhostTrack 是印度尼西亚开发者 HunxByts 写的一个 Python 小工具，把三件事打包成一个菜单程序：
